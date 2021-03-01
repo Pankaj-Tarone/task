@@ -1,7 +1,6 @@
 from flask import Flask
 import time
 from datetime import datetime
-from datetime import datetime
 from binance.client import Client
 from apscheduler.schedulers.background import BackgroundScheduler
 
